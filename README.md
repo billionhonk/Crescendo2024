@@ -8,7 +8,7 @@ FRC Team 687's code for its Crescendo 2024 competition robot, *Abruticus*.
 
 This program requires WPILib VSCode 2024 and FRC Game Tools 2024 to be installed.
 Clone this repository from <https://github.com/nerdherd/Crescendo2024>,
-open it in VSCode, and press Shift + F5 to deploy it to the robot. 
+open it in VSCode, and press `Shift` + `F5` to deploy it to the robot. 
 Then use Driver Station to enable the robot.
 
 This program uses two PS4 Controllers for operator input. Due to hardware issues, a wrapper class `BadPS4` is used to translate button inputs to typical PS4 inputs.
