@@ -26,7 +26,7 @@ This repository uses:
 - [CTRE Phoenix v5](https://maven.ctr-electronics.com/release/com/ctre/phoenix/Phoenix5-frc2024-latest.json)
 - [CTRE Phoenix v6](https://maven.ctr-electronics.com/release/com/ctre/phoenix6/latest/Phoenix6-frc2024-latest.json)
 - [REVLib 2024.2.0](https://software-metadata.revrobotics.com/REVLib-2024.json)
-- [WPIlib New Commands Library](https://docs.wpilib.org/en/stable/docs/software/vscode-overview/3rd-party-libraries.html)
+- [WPILib New Commands Library](https://docs.wpilib.org/en/stable/docs/software/vscode-overview/3rd-party-libraries.html)
 
 ## About
 
