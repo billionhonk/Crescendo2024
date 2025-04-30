@@ -8,7 +8,7 @@ FRC Team 687's code for its Crescendo 2024 competition robot, *Abruticus*.
 
 This program requires WPILib VSCode 2024 and FRC Game Tools 2024 to be installed.
 Clone this repository from <https://github.com/nerdherd/Crescendo2024>,
-open it in VSCode, and press shift + F5 to deploy it to the robot. 
+open it in VSCode, and press Shift + F5 to deploy it to the robot. 
 Then use Driver Station to enable the robot.
 
 This program uses two PS4 Controllers for operator input. Due to hardware issues, a wrapper class `BadPS4` is used to translate button inputs to typical PS4 inputs.
@@ -16,7 +16,7 @@ This program uses two PS4 Controllers for operator input. Due to hardware issues
 ## Contributing
 
 Please branch off from the `main` branch for any changes, and then submit a PR when finished. 
-Changes will be merged into the main branch and tagged as a release.
+Changes will be merged and tagged as a release.
 
 ## 3rd Party Libraries
 
@@ -30,4 +30,4 @@ This repository uses:
 
 ## About
 
-Abruticus uses a swerve drive and an under-bumper intake that hands off notes to a shooter on an inward pivot. A banner sensor detect notes in the shooter, which is indicated by an LED strip on one side of the robot. The pivot can rotate to shoot notes into the Speaker and the Amp. A LimeLight is positioned at the front to detect the central Speaker AprilTag for auto aim. Our most reliable auto is a 4-piece front-of-speaker auto, aptly named `Reliable4Piece`.
+Abruticus uses a swerve drive and an under-bumper intake that hands off notes to a shooter on an inward pivot. A banner sensor detects notes in the shooter, which is indicated by an LED strip on one side of the robot. The pivot can rotate to shoot notes into the Speaker and the Amp. A LimeLight is positioned at the front to detect the central Speaker AprilTag for auto aim. Our most reliable auto is a 4-piece front-of-speaker auto, aptly named `Reliable4Piece`.
