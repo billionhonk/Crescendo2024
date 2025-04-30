@@ -30,4 +30,4 @@ This repository uses:
 
 ## About
 
-Abruticus uses a swerve drive and an under-bumper intake that hands off notes to a shooter on an inward pivot. Banner sensors detect notes in the shooter, which is indicated by an LED strip on one side of the robot. The pivot can rotate to shoot notes into the Speaker and the Amp. A LimeLight is positioned at the front to detect the central Speaker AprilTag for auto aim. Our most reliable auto is a 4-piece front-of-speaker auto, aptly named `Reliable4Piece`.
+Abruticus uses a swerve drive and an under-bumper intake that hands off notes to a shooter on an inward pivot. A banner sensor detect notes in the shooter, which is indicated by an LED strip on one side of the robot. The pivot can rotate to shoot notes into the Speaker and the Amp. A LimeLight is positioned at the front to detect the central Speaker AprilTag for auto aim. Our most reliable auto is a 4-piece front-of-speaker auto, aptly named `Reliable4Piece`.
