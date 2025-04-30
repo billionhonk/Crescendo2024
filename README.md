@@ -27,3 +27,7 @@ This repository uses:
 - [CTRE Phoenix v6](https://maven.ctr-electronics.com/release/com/ctre/phoenix6/latest/Phoenix6-frc2024-latest.json)
 - [REVLib 2024.2.0](https://software-metadata.revrobotics.com/REVLib-2024.json)
 - [WPIlib New Commands Library](https://docs.wpilib.org/en/stable/docs/software/vscode-overview/3rd-party-libraries.html)
+
+## About
+
+Abruticus uses a swerve drive and an under-bumper intake that hands off notes to a shooter on an inward pivot. Banner sensors detect notes in the shooter, which is indicated by an LED strip on one side of the robot. The pivot can rotate to shoot notes into the Speaker and the Amp. A LimeLight is positioned at the front to detect the central Speaker AprilTag for auto aim. Our most reliable auto is a 4-piece front-of-speaker auto, aptly named `Reliable4Piece`.
